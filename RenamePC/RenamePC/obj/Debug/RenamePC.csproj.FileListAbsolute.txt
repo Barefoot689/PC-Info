@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\RenamePC\RenamePC\bin\Debug\RenamePC.exe.config
+C:\Users\student\source\repos\RenamePC\RenamePC\bin\Debug\RenamePC.exe
+C:\Users\student\source\repos\RenamePC\RenamePC\bin\Debug\RenamePC.pdb
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC.csprojAssemblyReference.cache
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\App.g.cs
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC_MarkupCompile.cache
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC_MarkupCompile.lref
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC.g.resources
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC.Properties.Resources.resources
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC.csproj.GenerateResource.cache
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC.exe
+C:\Users\student\source\repos\RenamePC\RenamePC\obj\Debug\RenamePC.pdb
